@@ -1,5 +1,5 @@
 CMPS 451 Assignemnt 1 
 
 this branch contain all files related to assignemtn 1 including 
-- google colab file
+- C++ file of a  basic K-means clustering algorithm  
 - screenshot of output 
