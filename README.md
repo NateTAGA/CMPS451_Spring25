@@ -1,16 +1,11 @@
-# 🤖 Artificial Intelligence Assignments – Nathan Tagaloa
+# CMPS 451 Assignemnt 4  – Nathan Tagaloa
 
-Welcome to my GitHub repository for Artificial Intelligence coursework at the University of La Verne. This repository contains a collection of assignments, projects, and experiments completed as part of my studies in AI.
+This branch contains all files related to Assignemtn 4 inclduing 
+- csv file
+- chart of Bmi vs age
+- chart of chrages vs age
+- python scriot ran in virtual envrionement
 
-
-
-## 📁 Folder Structure
-
-
-## 🧠 Purpose
-
-
-## 📬 Contact
 
 **Nathan Tagaloa**  
 B.S. Computer Science  
